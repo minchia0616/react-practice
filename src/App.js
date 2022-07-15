@@ -8,7 +8,9 @@
 // import Parent from "./components/Props-practice/Parent";
 // import Parent from "./components/Parent-child-practice/Parent";
 // import OrderPage from "./components/OrderPage/OrderPage";
-import Controlled from "./components/Controlled/Controlled";
+// import Controlled from "./components/Controlled/Controlled";
+// import BirthSelect from "./components/BirthSelect/BirthSelect";
+import TWZipCode from "./components/TWZipCode/TWZipCode";
 
 
 function App() {
@@ -25,8 +27,10 @@ function App() {
             {/* <StateObjArr /> */}
             {/* <Parent/> */}
             {/* <OrderPage/> */}
-            <Controlled/>
-            
+            {/* <Controlled/> */}
+            {/* <BirthSelect/> */}
+            <TWZipCode/>
+
         </>
     );
 }
