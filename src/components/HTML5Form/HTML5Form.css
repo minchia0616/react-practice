@@ -1,0 +1,17 @@
+/* 合法的樣式 */
+input:valid{
+    border-color: rgb(11, 156, 9);
+    background-color: rgb(163, 235, 174);
+}
+
+/* 不合法的樣式 */
+input:invalid{
+    border-color: #900;
+    background-color: #FDD;
+}
+
+/* 錯誤訊息 */
+.error{
+    font-size:10px;
+    color:#900
+}

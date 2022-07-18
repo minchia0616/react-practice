@@ -10,7 +10,11 @@
 // import OrderPage from "./components/OrderPage/OrderPage";
 // import Controlled from "./components/Controlled/Controlled";
 // import BirthSelect from "./components/BirthSelect/BirthSelect";
-import TWZipCode from "./components/TWZipCode/TWZipCode";
+// import TWZipCode from "./components/TWZipCode/TWZipCode";
+// import BMI from "./components/BMI/BMI";
+// import MultipleInput from "./components/MultipleInput/MultipleInput";
+// import HTML5Form from "./components/HTML5Form/HTML5Form";
+import RefsForm from "./components/RefsForm/RefsForm";
 
 
 function App() {
@@ -29,7 +33,11 @@ function App() {
             {/* <OrderPage/> */}
             {/* <Controlled/> */}
             {/* <BirthSelect/> */}
-            <TWZipCode/>
+            {/* <TWZipCode/> */}
+            {/* <BMI/> */}
+            {/* <MultipleInput/> */}
+            {/* <HTML5Form/> */}
+            <RefsForm/>
 
         </>
     );
