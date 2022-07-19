@@ -14,7 +14,9 @@
 // import BMI from "./components/BMI/BMI";
 // import MultipleInput from "./components/MultipleInput/MultipleInput";
 // import HTML5Form from "./components/HTML5Form/HTML5Form";
-import RefsForm from "./components/RefsForm/RefsForm";
+// import RefsForm from "./components/RefsForm/RefsForm";
+// import Parent from "./lifecycle/Parent";
+import Users from "./components/Users/Users";
 
 
 function App() {
@@ -37,8 +39,9 @@ function App() {
             {/* <BMI/> */}
             {/* <MultipleInput/> */}
             {/* <HTML5Form/> */}
-            <RefsForm/>
-
+            {/* <RefsForm/> */}
+            {/* <Parent/> */}
+            <Users/>
         </>
     );
 }
